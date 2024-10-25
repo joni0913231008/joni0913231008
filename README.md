@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @joni0913231008
-- 👀 I’m interested in coding...
-- 🌱 I’m currently learning how to code...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me teams...
-- 😄 Pronouns:...
-- ⚡ Fun fact: ...
+# as_seen_by_jonas
+## hamtoaster
 
-<!---
-joni0913231008/joni0913231008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![nothingheretolookat](<Screenshot 2023-11-12 163207-1.png>)
+
+| spalte1 | spalte2 |
+| :------ | ------: |
+| 0000009 | 0000011 |
+
+$\mathbb{K}\frac{1}{2}$
+
+$\pm$
+$\geq$
+$\leq$
+
+$E = mc^2$
